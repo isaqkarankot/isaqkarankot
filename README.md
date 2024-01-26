@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mahmad Isaq Karankot@isaqkarankot
-- 👀 I’m interested in Machine learning, Artificial Intelligence, Elecrical Engineering
-- 🌱 I’m currently learning Machine learning, Artificial Intelligence
-- 💞️ I’m looking to collaborate on Machine learning, Artificial Intelligence
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mahmad Isaq Karankot @isaqkarankot
+- 👀 I’m interested in Machine learning, Artificial Intelligence, Elecrical and Computer Engineering
+- 🌱 I’m currently learning Machine learning, Artificial Intelligence Concepts deeply
+- 💞️ I’m looking to collaborator to work on any concepts Machine learning, Artificial Intelligence.
+- 📫 How to reach me : mahmad.isaq@outlook.com
 
 
 <!---
